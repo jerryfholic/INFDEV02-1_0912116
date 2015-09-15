@@ -1,2 +1,2 @@
-git remote add origin https://github.com/jerryfholic/INFDEV02-1_0912116.git
+git remote add origin C:\Users\jersj_000\Documents\GitHub
 git push -u origin master
